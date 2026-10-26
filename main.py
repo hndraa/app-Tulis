@@ -56,7 +56,7 @@ class WelcomePage(QWidget):
         layout.addStretch()
 
         # Tambahkan label Student ID dan Student Name di bagian bawah
-        self.student_info_label = QLabel("© Hendra Ahmad Yani - F1D022122")
+        self.student_info_label = QLabel("Hndraa Apps")
         self.student_info_label.setAlignment(Qt.AlignCenter)
         self.student_info_label.setStyleSheet("""
             QLabel {
