@@ -159,8 +159,6 @@ app-tulis/
 └── README.md
 ```
 
-*The asset filenames shown are based on paths referenced in the provided code. Include only files that exist in your project, and retain any additional assets required by the full source code.*
-
 ### Installation
 
 **Step 1. Clone the repository**
@@ -207,5 +205,3 @@ python main.py
 8. Enter the required task information and save the task.
 9. Mark important tasks when needed to place them at the top of the task list.
 10. Use the back button to exit selection modes or return to the previous page.
-
-GitHub: [hndraa](https://github.com/hndraa)
