@@ -66,55 +66,57 @@ The following sections document the main application workflow. Add the correspon
 
 The initial screen displays the TULIS logo, a Start button, animated background icons, and the application attribution.
 
-**Screenshot:** `screenshots/01-welcome-page.png`
+<img width="500" height="680" alt="image" src="https://github.com/user-attachments/assets/4bc99d35-0455-477b-ac5c-da23f8472be8" />
+
 
 ### Task List
 
 The main page displays tasks in a scrollable grid of cards. Each card contains the task title, description, duration, execution time, and creation timestamp.
 
-**Screenshot:** `screenshots/02-task-list.png`
+<img width="500" height="681" alt="image" src="https://github.com/user-attachments/assets/58612e8b-94fb-44c7-8204-3dcdcbdc2208" />
+
 
 ### Search Tasks
 
 Users can enter keywords in the search field to locate tasks by title.
 
-**Screenshot:** `screenshots/03-search-tasks.png`
+<img width="501" height="681" alt="image" src="https://github.com/user-attachments/assets/c4cefa2f-dc4c-4bb0-b6ac-a55cfe2539ad" />
+
 
 ### Filter Tasks
 
 The filter menu provides controls for filtering tasks by date, priority, and execution time.
 
-**Screenshot:** `screenshots/04-filter-tasks.png`
+<img width="607" height="699" alt="image" src="https://github.com/user-attachments/assets/05a7a4c4-1d6e-47bb-b278-56d90cc084a6" />
 
 ### Delete Tasks
 
 Delete mode highlights task cards with red dashed borders. Users can select a task and confirm whether it should be removed.
 
-**Screenshot:** `screenshots/05-delete-tasks.png`
+<img width="504" height="680" alt="image" src="https://github.com/user-attachments/assets/983237ec-cbf2-4b34-93b2-74a12697a8bf" />
 
 ### View Task Details
 
 View mode highlights selectable task cards. Selecting a card opens a dialog containing the task's details.
 
-**Screenshot:** `screenshots/06-view-task.png`
+<img width="501" height="681" alt="image" src="https://github.com/user-attachments/assets/4da812f6-470e-4667-9a86-e828ad0e836e" />
 
 ### Edit Tasks
 
 Edit mode highlights task cards with green dashed borders and allows users to update supported task information.
 
-**Screenshot:** `screenshots/07-edit-task.png`
+<img width="502" height="682" alt="image" src="https://github.com/user-attachments/assets/ade4ffc2-d8eb-4dbe-a747-cccc51296905" />
 
 ### Add New Task
 
 The task creation page provides input fields for task information, including title, description, category, duration, priority, importance, and execution time.
 
-**Screenshot:** `screenshots/08-add-task.png`
+<img width="503" height="680" alt="image" src="https://github.com/user-attachments/assets/e8c4b2e5-f52c-4024-9be5-0c5a9dbbefe8" />
+
 
 ### Results
 
 The application demonstrates a multi-page task management workflow with interactive controls, task organization, search and filtering, and task modification features.
-
-*Note: The screenshots above are placeholders for the actual image files. The documented screens are based on the project report.*
 
 ## 04. Installation & Usage
 
@@ -147,15 +149,6 @@ app-tulis/
 │   ├── filter.png
 │   ├── add.png
 │   └── back_icon.png
-├── screenshots/
-│   ├── 01-welcome-page.png
-│   ├── 02-task-list.png
-│   ├── 03-search-tasks.png
-│   ├── 04-filter-tasks.png
-│   ├── 05-delete-tasks.png
-│   ├── 06-view-task.png
-│   ├── 07-edit-task.png
-│   └── 08-add-task.png
 └── README.md
 ```
 
@@ -164,13 +157,13 @@ app-tulis/
 **Step 1. Clone the repository**
 
 ```bash
-git clone https://github.com/hndraa/app-tulis.git
+git clone https://github.com/hndraa/app-Tulis.git
 ```
 
 **Step 2. Navigate to the project directory**
 
 ```bash
-cd app-tulis
+cd app-Tulis
 ```
 
 **Step 3. Install PyQt5**
